@@ -45,6 +45,11 @@ The project combines biomedical signal processing, spectrogram analysis, and dee
 
 ---
 
+## METHODS
+- CNN
+- CRNN
+- CONFORMER ( BEST PERFORMANCE 97.81)
+
 ## 🔍 Features
 
 - Real-time heart sound analysis
