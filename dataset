@@ -1,0 +1,20 @@
+## 📊 Dataset
+
+This project utilizes the CirCor DigiScope Phonocardiogram Dataset for heart murmur classification research.
+
+### Dataset Source
+
+- CirCor DigiScope Dataset: https://physionet.org/content/circor-heart-sound/1.0.3/
+
+### Dataset Description
+
+The dataset contains:
+- Normal heart sounds
+- Abnormal heart sounds
+- Murmur recordings
+- Pediatric phonocardiogram (PCG) recordings
+- Multiple recording conditions
+
+### Citation
+
+Please cite the original dataset source if used for research purposes.
